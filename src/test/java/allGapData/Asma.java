@@ -86,8 +86,8 @@ public class Asma extends Homes {
 		while (it.hasNext()) {
 			// System.out.println(it.next());
 		}
-List l=new ArrayList();
-//l.add(5, "break");
+List<String> l=new ArrayList<String>();
+// l.add(5, "break");
 l.addAll(c);
 for(Object o:l) {
 System.out.println("oo:"+o);
